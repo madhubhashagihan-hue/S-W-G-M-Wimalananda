@@ -22,7 +22,30 @@
 
 ###  Languages and Tools
 
+<h2 align="left">💻 Programming Languages</h2>
+
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,python,php,js" />
+</p>
+<h2 align="left">🌐 Frontend Development</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue" />
+</p>
+<h2 align="left">⚙️ Backend Development</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
+</p>
+<h2 align="left">🗄️ Database</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+<h2 align="left">🛠️ Tools & Technologies</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
 </p>
 
 ---
